@@ -3,7 +3,7 @@
 
 Examples for Dessign Patterns in TypeScript
 
-##Creational Design Paterns
+## Creational Design Paterns
 
 1. Factory method
 1. Abstract Factory
@@ -11,7 +11,7 @@ Examples for Dessign Patterns in TypeScript
 1. Prototype
 1. Singleton
 
-##Structural Design Patterns
+## Structural Design Patterns
 
 1. Adapter
 1. Bridge
@@ -21,7 +21,7 @@ Examples for Dessign Patterns in TypeScript
 1. Flyweight
 1. Proxy
 
-##Behavioral Design Patterns
+## Behavioral Design Patterns
 
 1. Chain of responsibility
 1. Command
