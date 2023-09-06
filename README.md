@@ -30,7 +30,7 @@ Examples for Dessign Patterns in TypeScript
 1. Iterator
 1. Mediator
 1. Memento
-1. Observer
+1. [Observer](designs/behavioralPatterns/observer/README.md)
 1. State
 1. Strategy
 1. Template method
