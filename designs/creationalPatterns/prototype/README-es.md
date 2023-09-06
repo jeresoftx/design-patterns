@@ -31,4 +31,4 @@ El patrón Prototipo es útil en situaciones donde la creación de objetos es co
 
 1. [Typescript](prototype.ts)
 1. [Python](prototype.py)
-1. [Kotlin](kotlin.kt)
+1. [Kotlin](prototype.kt)

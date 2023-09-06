@@ -30,4 +30,4 @@ The Prototype Pattern is useful in situations where object creation is resource-
 
 1. [Typescript](prototype.ts)
 1. [Python](prototype.py)
-1. [Kotlin](kotlin.kt)
+1. [Kotlin](prototype.kt)
