@@ -3,7 +3,7 @@
 
 Ejemplo de patrones de diseño
 
-##Patrones de Diseño Creacionales
+## Patrones de Diseño Creacionales
 
 Los patrones de diseño creacionales son un conjunto de patrones en el diseño de software que se utilizan para crear objetos de manera más flexible y eficiente. Aquí hay algunos ejemplos de patrones de diseño creacionales:
 
@@ -13,7 +13,7 @@ Los patrones de diseño creacionales son un conjunto de patrones en el diseño d
 1. Prototype (prototipo)
 1. Singleton (singleton)
 
-##Patrones de Diseño Estructurales
+## Patrones de Diseño Estructurales
 
 Los patrones de diseño estructurales son un conjunto de patrones en el diseño de software que se enfocan en cómo los objetos y clases se componen para formar estructuras más grandes y complejas. Aquí tienes algunos ejemplos de patrones de diseño estructurales:
 
@@ -25,7 +25,7 @@ Los patrones de diseño estructurales son un conjunto de patrones en el diseño 
 1. Flyweight
 1. Proxy
 
-##Patrones de Diseño del comportamiento
+## Patrones de Diseño del comportamiento
 
 Los patrones de diseño del comportamiento son un conjunto de patrones en el diseño de software que se centran en cómo los objetos interactúan y comunican entre sí. Aquí hay algunos ejemplos de patrones de diseño del comportamiento:
 
