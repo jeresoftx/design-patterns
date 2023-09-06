@@ -1,4 +1,5 @@
 # Design Patterns
+
 [Eglish](README.md)
 
 Ejemplo de patrones de diseño
@@ -10,7 +11,7 @@ Los patrones de diseño creacionales son un conjunto de patrones en el diseño d
 1. Abstract Factory (Fábrica Abstracta)
 1. Builder (Constructor)
 1. Factory method (Método de Fábrica)
-1. Prototype (prototipo)
+1. [Prototype (prototipo)](./designs/creationalPatterns/prototype/README-es.md)
 1. Singleton (singleton)
 
 ## Patrones de Diseño Estructurales

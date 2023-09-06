@@ -1,4 +1,5 @@
 # Typescript Design Patterns
+
 [Español](README-es.md)
 
 Examples for Dessign Patterns in TypeScript
@@ -8,7 +9,7 @@ Examples for Dessign Patterns in TypeScript
 1. Factory method
 1. Abstract Factory
 1. Builder
-1. Prototype
+1. [Prototype](./designs/creationalPatterns/prototype/README.md)
 1. Singleton
 
 ## Structural Design Patterns
