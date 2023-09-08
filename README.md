@@ -14,7 +14,7 @@ Examples for Dessign Patterns in TypeScript
 
 ## Structural Design Patterns
 
-1. Adapter
+1. [Adapter](designs/structuralPatterns/adapter/README.md)
 1. Bridge
 1. Composite
 1. Decorator

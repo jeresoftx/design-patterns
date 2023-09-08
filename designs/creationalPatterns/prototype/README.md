@@ -1,4 +1,4 @@
-# Patrón de diseño prototipo
+# Dessing Pattern Prototype
 
 [Incio](../../../README-es.md)
 The Prototype Pattern is a creational design pattern used to create new objects by duplicating an existing object, known as a prototype. Essentially, this pattern allows objects to be cloned instead of creating them from scratch. The primary goal of the Prototype Pattern is to avoid the repeated creation of costly objects, especially when the construction of an object is complex or resource-intensive.
@@ -27,6 +27,8 @@ Below are the key concepts and an explanation of how the Prototype Pattern works
    - Can increase complexity when dealing with cross-references between objects.
 
 The Prototype Pattern is useful in situations where object creation is resource- or time-intensive, or when multiple similar objects with some configuration differences are needed. It is especially beneficial in programming languages lacking a native cloning mechanism, as it provides a structured approach to object cloning.
+
+## Examples:
 
 1. [Typescript](prototype.ts)
 1. [Python](prototype.py)
