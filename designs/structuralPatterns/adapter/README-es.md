@@ -8,3 +8,4 @@ El patrón de diseño Adaptador (Adapter Pattern) se utiliza para permitir que d
 
 1. [Typescript](./adapter.ts)
 1. [Python](./adapter.py)
+1. [Kotlin](./adapter.kt)

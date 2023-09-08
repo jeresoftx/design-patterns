@@ -8,3 +8,4 @@ The Adapter Pattern is used to allow two incompatible interfaces to work togethe
 
 1. [Typescript](./adapter.ts)
 1. [Python](./adapter.py)
+1. [Kotlin](./adapter.kt)
