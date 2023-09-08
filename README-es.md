@@ -18,7 +18,7 @@ Los patrones de diseño creacionales son un conjunto de patrones en el diseño d
 
 Los patrones de diseño estructurales son un conjunto de patrones en el diseño de software que se enfocan en cómo los objetos y clases se componen para formar estructuras más grandes y complejas. Aquí tienes algunos ejemplos de patrones de diseño estructurales:
 
-1. Adapter
+1. [Adapter](designs/structuralPatterns/adataper/README-es.md)
 1. Bridge
 1. Composite
 1. Decorator

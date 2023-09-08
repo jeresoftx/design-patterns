@@ -29,6 +29,8 @@ A continuación, se presentan los conceptos clave y una explicación de cómo fu
 
 El patrón Prototipo es útil en situaciones donde la creación de objetos es costosa en términos de recursos o tiempo, o cuando se necesitan múltiples objetos similares con algunas diferencias en su configuración. Es especialmente beneficioso en lenguajes de programación que carecen de un mecanismo nativo de clonación, ya que proporciona un enfoque estructurado para la creación de clones de objetos.
 
+## Ejemplos:
+
 1. [Typescript](prototype.ts)
 1. [Python](prototype.py)
 1. [Kotlin](prototype.kt)
