@@ -1,0 +1,31 @@
+<!-- markdownlint-disable-next-line first-line-heading -->
+
+- [Inicio](/)
+- [Patrones Creacionales](/creationalPatterns/creationalPatterns.md)
+  - Factory method
+  - Abstract Factory
+  - Builder
+  - [Prototype](/creationalPatterns/prototype.md)
+  - Singleton
+- [Patrones de Comprotamiento](/behavioralPatterns/behavioralPatterns.md)
+  - Chain of responsibility
+  - Command
+  - Interpreter
+  - Iterator
+  - Mediator
+  - Memento
+  - [Observer](/behavioralPatterns/observer.md)
+  - State
+  - Strategy
+  - Template method
+  - Visitor
+- [Patrones Estructurales](/structuralPatterns/structuralPatterns.md)
+  - [Adapter](/structuralPatterns/adapter.md)
+  - Bridge
+  - Composite
+  - Decorator
+  - Facede
+  - Flyweight
+  - Proxy
+- **Links**
+- [Credits](https://github.com/jeresoftx)

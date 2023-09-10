@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "docsify:dev": "docsify serve docs --open"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

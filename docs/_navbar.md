@@ -1,0 +1,2 @@
+- [:us: English](/)
+- [:mexico: Español](/es-mx/)
