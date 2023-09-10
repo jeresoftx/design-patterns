@@ -9,20 +9,20 @@ Los patrones de diseño creacionales son un conjunto de patrones en el diseño d
 1. Abstract Factory (Fábrica Abstracta)
 1. Builder (Constructor)
 1. Factory method (Método de Fábrica)
-1. [Prototype (prototipo)](./designs/creationalPatterns/prototype/README-es.md)
+1. [Prototype (prototipo)](/creationalPatterns/prototype.md)
 1. Singleton (singleton)
 
 ## Patrones de Diseño Estructurales
 
 Los patrones de diseño estructurales son un conjunto de patrones en el diseño de software que se enfocan en cómo los objetos y clases se componen para formar estructuras más grandes y complejas. Aquí tienes algunos ejemplos de patrones de diseño estructurales:
 
-1. [Adapter](designs/structuralPatterns/adataper/README-es.md)
+1. [Adapter](/structuralPatterns/adataper.md)
 1. Bridge
 1. Composite
 1. Decorator
 1. Facede
 1. Flyweight
-1. Proxy
+1. [Proxy](/structuralPatterns/proxy.md)
 
 ## Patrones de Diseño del comportamiento
 
@@ -34,7 +34,7 @@ Los patrones de diseño del comportamiento son un conjunto de patrones en el dis
 1. Iterator
 1. Mediator
 1. Memento
-1. [Observer (observador)](designs/behavioralPatterns/observer/README-es.md)
+1. [Observer (observador)](designs/behavioralPatterns/observer.md)
 1. State
 1. Strategy
 1. Template method

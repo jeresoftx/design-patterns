@@ -26,6 +26,6 @@
   - Decorator
   - Facede
   - Flyweight
-  - Proxy
+  - [Proxy](/structuralPatterns/proxy.md)
 - **Links**
 - [Credits](https://github.com/jeresoftx)
