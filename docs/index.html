@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover" />
+    <meta name="description" content="" />
+    <title>Design Patterns</title>
+    <link
+      rel="stylesheet"
+      media="(prefers-color-scheme: dark)"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" />
+    <!-- Custom Styles -->
+    <style>
+      :root {
+        --theme-hue: 325;
+        --docsifytabs-tab-highlight-color: purple;
+      }
+      nav a {
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        repo: 'https://github.com/jeresoftx/design-patterns',
+        loadSidebar: true,
+        loadNavbar: true,
+        auto2top: true,
+        maxLevel: 4,
+        subMaxLevel: 0,
+        autoHeader: true,
+        mergeNavbar: true,
+        nativeEmoji: true,
+        alias: {
+          '/(es|es-mx)/.*_sidebar.md': '/es-mx/_sidebar.md',
+        },
+        pathNamespaces: ['/es-mx'],
+        name:
+          '<a id="home-link" class="app-name-link" data-nosearch href="/">Dessing Patterns</a><br/>' +
+          '<select id="lang-selector" name="lang">' +
+          '<option value="">English</value>' +
+          '<option value="es-mx">Español</value>' +
+          '</select>',
+        // disable automatic linking to avoid navigating when clicking on select
+        nameLink: false,
+        namespaces: [
+          {
+            // uniq namespace identifier (no used internally yet but maybe in the future)
+            id: 'lang',
+            // recognizable values
+            values: ['es-mx'],
+            // whether this namespace must be present in the path or not
+            optional: true,
+            selector: '#lang-selector',
+          },
+        ],
+        copyCode: {
+          buttonText: {
+            '/es-mx/': 'Haga clic para copiar',
+            '/': 'Copy to clipboard',
+          },
+          errorText: {
+            '/es-mx/': 'Error',
+            '/': 'Error',
+          },
+          successText: {
+            '/es-mx/': 'Copiado',
+            '/': 'Copied',
+          },
+          themeable: {
+            readyTransition: true, // default
+            responsiveTables: true, // default
+          },
+          executeScript: true,
+          search: {
+            depth: 3,
+            noData: 'No results!',
+            placeholder: 'Search...',
+          },
+        },
+        tabs: {
+          persist: true, // default
+          sync: true, // default
+          theme: 'classic', // default
+          tabComments: true, // default
+          tabHeadings: true, // default
+        },
+      };
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://unpkg.com/docsify-namespaced"></script>
+    <script src="https://unpkg.com/docsify-copy-code@2"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-typescript.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  </body>
+</html>
