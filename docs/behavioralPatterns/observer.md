@@ -10,7 +10,7 @@ Define a one-to-many relationship between objects, so that when an object change
 
 #### **Typescript**
 
-[observer.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/5a05e359d608a22d16851d500d76335aab2407be/designs/behavioralPatterns/observer/observer.ts ':include :type=code')
+[observer.ts](https://raw.githubusercontent.com/jeresoftx/design-patterns/5a05e359d608a22d16851d500d76335aab2407be/designs/behavioralPatterns/observer/observer.ts ':include :type=code')
 
 #### **Python**
 
