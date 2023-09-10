@@ -35,14 +35,18 @@ El patrón Prototipo es útil en situaciones donde la creación de objetos es co
 
 #### **Typescript**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/5a05e359d608a22d16851d500d76335aab2407be/designs/creationalPatterns/prototype/prototype.ts ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/prototype/prototype.ts ':include :type=code')
 
 #### **Python**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/designs/creationalPatterns/prototype/prototype.py ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/prototype/prototype.py ':include :type=code')
 
 #### **Kotlin**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/5a05e359d608a22d16851d500d76335aab2407be/designs/creationalPatterns/prototype/prototype.kt ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/prototype/prototype.kt ':include :type=code')
+
+#### **Rust**
+
+[prototype.rs](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/prototype/prototype.rs ':include :type=code')
 
 <!-- tabs:end -->
