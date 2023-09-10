@@ -30,14 +30,14 @@ The Proxy Pattern is a structural design pattern that provides an object that ac
 
 #### **Typescript**
 
-[proxy.ts](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/behavioralPatterns/proxy/proxy.ts ':include :type=code')
+[proxy.ts](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/proxy/proxy.ts ':include :type=code')
 
 #### **Python**
 
-[proxy.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/behavioralPatterns/proxy/proxy.py ':include :type=code')
+[proxy.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/proxy/proxy.py ':include :type=code')
 
 #### **Ruby**
 
-[proxy.rb](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/behavioralPatterns/proxy/proxy.rb ':include :type=code')
+[proxy.rb](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/proxy/proxy.rb ':include :type=code')
 
 <!-- tabs:end -->
