@@ -9,7 +9,7 @@
   "scripts": {
     "docsify:dev": "docsify serve docs --open",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "version": "gun run changelog && git add CHANGELOG.md && git commit -m 'chore: update changelog'"
+    "version": "bun run changelog && git add CHANGELOG.md && git commit -m 'chore: update changelog'"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
