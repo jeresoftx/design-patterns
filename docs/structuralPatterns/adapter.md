@@ -1,4 +1,4 @@
-# Dessing Pattern PrAdapterototype
+# Dessing Pattern Adapter
 
 The Adapter Pattern is used to allow two incompatible interfaces to work together. An adapter acts as an intermediary between two objects that cannot communicate directly.
 
@@ -8,14 +8,14 @@ The Adapter Pattern is used to allow two incompatible interfaces to work togethe
 
 #### **Typescript**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/designs/structuralPatterns/adapter/adapter.ts ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/adapter/adapter.ts ':include :type=code')
 
 #### **Python**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/designs/structuralPatterns/adapter/adapter.py ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/adapter/adapter.py ':include :type=code')
 
 #### **Kotlin**
 
-[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/designs/structuralPatterns/adapter/adapter.kt ':include :type=code')
+[prototype.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/structuralPatterns/adapter/adapter.kt ':include :type=code')
 
 <!-- tabs:end -->
