@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jeresoftx/design-patterns/compare/v1.0.0...v1.1.0) (2023-09-11)
+
+
+### Features
+
+* **creational:** :sparkles: add design patterns singleton ([#43](https://github.com/jeresoftx/design-patterns/issues/43)) ([41fe624](https://github.com/jeresoftx/design-patterns/commit/41fe624438b0aef531756628fe6051ac909df197)), closes [#42](https://github.com/jeresoftx/design-patterns/issues/42)
+
 ## 1.0.0 (2023-09-11)
 
 
