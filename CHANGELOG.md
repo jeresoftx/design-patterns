@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/jeresoftx/design-patterns/compare/v1.1.0...v1.1.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* **Documentation:** :bug: add Highlighter for PHP ([#46](https://github.com/jeresoftx/design-patterns/issues/46)) ([daeb26b](https://github.com/jeresoftx/design-patterns/commit/daeb26b5133ea1949d61429e44d0ada0cdbeba8c)), closes [#45](https://github.com/jeresoftx/design-patterns/issues/45)
+
 ## [1.1.0](https://github.com/jeresoftx/design-patterns/compare/v1.0.0...v1.1.0) (2023-09-11)
 
 
