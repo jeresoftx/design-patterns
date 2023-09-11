@@ -10,7 +10,7 @@ Los patrones de diseño creacionales son un conjunto de patrones en el diseño d
 1. Builder (Constructor)
 1. Factory method (Método de Fábrica)
 1. [Prototype (prototipo)](/creationalPatterns/prototype.md)
-1. Singleton (singleton)
+1. [Singleton (singleton)](/creationalPatterns/singleton.md)
 
 ## Patrones de Diseño Estructurales
 

@@ -6,7 +6,7 @@
   - Abstract Factory
   - Builder
   - [Prototype](/creationalPatterns/prototype.md)
-  - Singleton
+  - [Singleton](/creationalPatterns/singleton.md)
 - [Behavioral Design Patterns](/behavioralPatterns/behavioralPatterns.md)
   - Chain of responsibility
   - Command
