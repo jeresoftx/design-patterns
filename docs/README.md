@@ -8,7 +8,7 @@ Examples for Dessign Patterns in TypeScript
 1. Abstract Factory
 1. Builder
 1. [Prototype](/creationalPatterns/prototype.md)
-1. Singleton
+1. [Singleton](/creationalPatterns/singleton.md)
 
 ## Structural Design Patterns
 
