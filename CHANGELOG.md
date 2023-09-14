@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jeresoftx/design-patterns/compare/v1.1.1...v1.2.0) (2023-09-14)
+
+
+### Features
+
+* **creational:** :sparkles: add design pattern factory method ([#51](https://github.com/jeresoftx/design-patterns/issues/51)) ([5f5b1b4](https://github.com/jeresoftx/design-patterns/commit/5f5b1b452cc909da271b13873af29e26ed0f381c)), closes [#50](https://github.com/jeresoftx/design-patterns/issues/50)
+
 ## [1.1.1](https://github.com/jeresoftx/design-patterns/compare/v1.1.0...v1.1.1) (2023-09-11)
 
 
