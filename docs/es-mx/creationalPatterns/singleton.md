@@ -21,3 +21,29 @@ El patrón Singleton se utiliza en situaciones donde se requiere una única inst
 Un ejemplo común de uso del patrón Singleton es en el manejo de registros de eventos, sistemas de configuración, controladores de bases de datos, administradores de caché y administradores de hilos, entre otros.
 
 La implementación exacta del patrón Singleton puede variar según el lenguaje de programación, pero los conceptos clave mencionados anteriormente son universales en todas las implementaciones del patrón.
+
+## Código de ejemplo
+
+<!-- tabs:start -->
+
+#### **Typescript**
+
+[singleton.ts](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/singleton/singleton.ts ':include :type=code')
+
+#### **Python**
+
+[singleton.py](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/singleton/singleton.py ':include :type=code')
+
+#### **Kotlin**
+
+[singleton.kt](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/singleton/singleton.kt ':include :type=code')
+
+#### **Ruby**
+
+[singleton.rb](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/singleton/singleton.rb ':include :type=code')
+
+#### **PHP**
+
+[singleton.php](https://raw.githubusercontent.com/jeresoftx/design-patterns/main/src/creationalPatterns/singleton/singleton.php ':include :type=code')
+
+<!-- tabs:end -->

@@ -2,7 +2,7 @@
 
 - [Home](/)
 - [Creational Design Patterns](/creationalPatterns/creationalPatterns.md)
-  - Factory method
+  - [Factory method](/creationalPatterns/factoryMethod.md)
   - Abstract Factory
   - Builder
   - [Prototype](/creationalPatterns/prototype.md)
