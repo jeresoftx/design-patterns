@@ -2,10 +2,10 @@
 
 - [Inicio](/)
 - [Patrones Creacionales](/creationalPatterns/creationalPatterns.md)
-  - Factory method
+  - [Método de fabrica](/creationalPatterns/factoryMethod.md)
   - Abstract Factory
   - Builder
-  - [Prototype](/creationalPatterns/prototype.md)
+  - [Prototipo](/creationalPatterns/prototype.md)
   - [Singleton](/creationalPatterns/singleton.md)
 - [Patrones de Comprotamiento](/behavioralPatterns/behavioralPatterns.md)
   - Chain of responsibility
@@ -14,13 +14,13 @@
   - Iterator
   - Mediator
   - Memento
-  - [Observer](/behavioralPatterns/observer.md)
+  - [observador](/behavioralPatterns/observer.md)
   - State
   - Strategy
   - Template method
   - Visitor
 - [Patrones Estructurales](/structuralPatterns/structuralPatterns.md)
-  - [Adapter](/structuralPatterns/adapter.md)
+  - [Adaptador](/structuralPatterns/adapter.md)
   - Bridge
   - Composite
   - Decorator
