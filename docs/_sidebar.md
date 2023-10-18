@@ -23,7 +23,7 @@
   - [Adapter](/structuralPatterns/adapter.md)
   - Bridge
   - Composite
-  - Decorator
+  - [Decorator](/structuralPatterns/decorator.md)
   - Facede
   - Flyweight
   - [Proxy](/structuralPatterns/proxy.md)
