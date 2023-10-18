@@ -19,7 +19,7 @@ Los patrones de diseño estructurales son un conjunto de patrones en el diseño 
 1. [Adapter](/structuralPatterns/adataper.md)
 1. Bridge
 1. Composite
-1. Decorator
+1. [Decorator](/structuralPatterns/decorator.md)
 1. Facede
 1. Flyweight
 1. [Proxy](/structuralPatterns/proxy.md)
